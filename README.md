@@ -1,4 +1,5 @@
-# Diytools-
+# Diytools_Csharp
+
 秒开cmd的管理工具。
 ## 简介
 
