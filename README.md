@@ -9,7 +9,8 @@
 
 那就展示吧。（小白开发，大佬勿喷！！！）
 
-![image-20250604090014320](https://s2.loli.net/2025/06/04/uPfk9Q3WzXnvT6B.png)
+![image](https://github.com/user-attachments/assets/1aab9ac4-61a4-492d-80dd-036d73a91fd0)
+
 
 ## 功能说明
 
@@ -17,19 +18,21 @@
 
 主页面很简单，**极简风**！！！开局可以直接**拉取边框**调整大小。
 
-![image-20250603175551620](https://s2.loli.net/2025/06/03/3fYlIPHd9G185Wg.png)
+![image](https://github.com/user-attachments/assets/ead185f0-b0b6-4c46-aea2-34e7cba98e8a)
 
 ### 搜索框
 
 这个无需多言，就是在我们工具太多的时候，方便直接定位！
 
-![](https://s2.loli.net/2025/06/03/4JLi8ykNVTQRrUY.png)
+![image](https://github.com/user-attachments/assets/bf9fa83b-fd09-4fb7-bfe6-fdec3a691630)
+
 
 ### 工具管理
 
 一触即发！添加、编辑、删除工具，应有尽有！还可以定义自己工具的图标哟！
 
-![image-20250603180055538](https://s2.loli.net/2025/06/03/6FWujnYbX7iPQUt.png)
+![image](https://github.com/user-attachments/assets/9194bf98-dc8f-4cf5-99a4-75cf642d55a5)
+
 
 **补充说明**：
 
